@@ -1,0 +1,11 @@
+{
+  "name": "weatherapp_backend",
+  "version": "1.0.0",
+  "description": "backend functionality for the waeatherapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Anton Fedorov",
+  "license": "ISC"
+}
